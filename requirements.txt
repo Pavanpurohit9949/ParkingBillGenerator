@@ -1,0 +1,7 @@
+streamlit
+pandas
+opencv-python
+pillow
+pytesseract
+qrcode[pil]
+ultralytics
